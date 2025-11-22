@@ -42,7 +42,7 @@ ipython_pygments_lexers @ file:///home/conda/feedstock_root/build_artifacts/ipyt
 ipywidgets @ file:///home/conda/feedstock_root/build_artifacts/ipywidgets_1762040433881/work
 isoduration @ file:///home/conda/feedstock_root/build_artifacts/isoduration_1733493628631/work/dist
 jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1733300866624/work
-Jinja2==3.1.6
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1741263328855/work
 json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1755034879854/work
 jsonpointer @ file:///home/conda/feedstock_root/build_artifacts/jsonpointer_1756754131677/work
 jsonschema @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_jsonschema_1755595646/work
@@ -70,6 +70,7 @@ nbconvert @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_
 nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1733402752141/work
 nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1733325553580/work
 networkx==3.5
+notebook @ file:///home/conda/feedstock_root/build_artifacts/notebook_1759152069573/work
 notebook_shim @ file:///home/conda/feedstock_root/build_artifacts/notebook-shim_1733408315203/work
 numpy==2.3.3
 nvidia-cublas-cu12==12.8.4.1
@@ -129,7 +130,7 @@ torchvision==0.24.1+cu128
 tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1762506753215/work
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1733367359838/work
 triton==3.5.1
-typing_extensions==4.15.0
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1756220668/work
 typing_utils @ file:///home/conda/feedstock_root/build_artifacts/typing_utils_1733331286120/work
 tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1742745135198/work
 uri-template @ file:///home/conda/feedstock_root/build_artifacts/uri-template_1733323593477/work/dist
